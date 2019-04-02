@@ -14,6 +14,10 @@ public class CardTester {
 
 		System.out.println(jeff.matches(jeef));
 		System.out.println(jefe.toString());
+		System.out.println(jefe.matches(jeef));
+		System.out.println(jefe.rank());
+		System.out.println(jeef.suit());
+		System.out.println(jeff.pointValue());
 		
 	}
 }
