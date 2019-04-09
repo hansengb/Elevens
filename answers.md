@@ -1,0 +1,3 @@
+1. You can match 5 and 6. Nothing else can be matched unless new cards are drawn.
+2. Yes, every card has a match, so in order to get 3 left, they must all match together.
+3. No, there is no way to know which card will come up. Every card has match that is in the deck that could come up. Even if you counted cards and could predict which card would be the most likely to be drawn next, that card will be drawn whether you match a pair of cards or if you match a J,Q,K. 
